@@ -1,0 +1,16 @@
+com/redhat/fuse/example/NotAuthorizedUser.class
+com/redhat/fuse/example/Customer.class
+com/redhat/fuse/example/GetCustomerByName.class
+com/redhat/fuse/example/package-info.class
+com/redhat/fuse/example/CustomerService.class
+com/redhat/fuse/example/camel/Enrich.class
+com/redhat/fuse/example/NoSuchCustomerFault.class
+com/redhat/fuse/example/GetCustomerByNameResponse.class
+com/redhat/fuse/example/ObjectFactory.class
+com/redhat/fuse/example/NoSuchCustomer.class
+com/redhat/fuse/example/NotAuthorizedUserFault.class
+com/redhat/fuse/example/GetAllCustomersResponse.class
+com/redhat/fuse/example/CustomerService_Service.class
+com/redhat/fuse/example/SaveCustomer.class
+com/redhat/fuse/example/camel/FromWStoCustomerService.class
+com/redhat/fuse/example/CustomerType.class

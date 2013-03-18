@@ -1,0 +1,16 @@
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/NotAuthorizedUserFault.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/GetCustomerByNameResponse.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/GetCustomerByName.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/NoSuchCustomerFault.java
+/home/agigante/workspace/fuse/example-camel-cxf/src/main/java/com/redhat/fuse/example/camel/Enrich.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/CustomerService_Service.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/Customer.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/ObjectFactory.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/GetAllCustomersResponse.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/NotAuthorizedUser.java
+/home/agigante/workspace/fuse/example-camel-cxf/src/main/java/com/redhat/fuse/example/camel/FromWStoCustomerService.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/SaveCustomer.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/CustomerType.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/CustomerService.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/NoSuchCustomer.java
+/home/agigante/workspace/fuse/example-camel-cxf/target/generated/src/main/java/com/redhat/fuse/example/package-info.java
